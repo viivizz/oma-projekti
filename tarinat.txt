@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Kaiken kantanut kausi jeeeeejejejejejejejejejej kumartaa, hiljaa kääntyvä aika katsoo myötä.Taivaalla taittuvat tiehyet, muinaisten tinojen toteutuneet taiat.Uudemman ajan tiiviimmät terälehdet.Kolmestatäysikuusta kasvaa kaivattu kevät,auringon laiduntama rypsipelto ja toiveikas titaanien tuuli.Sinne mennäksesi kulje yksin valoa kohti. Ollen ajan oma, ja silti.Sinun todellinen hetkesi on tässä
+=======
+Kaiken kantanut kausi kumartaa, hiljaa kääntyvä aika katsoo myötä.Taivaalla taittuvat tiehyet, muinaisten tinojen toteutuneet taiat.Uudemman ajan tiiviimmät terälehdet.Kolmestatäysikuusta kasvaa kaivattu kevät,auringon laiduntama rypsipelto ja toiveikas titaanien tuuli.Sinne mennäksesi kulje yksin valoa kohti. Ollen ajan oma, ja silti.Sinun todellinen hetkesi on tässä. TÄMÄ ON UUSI VIIMEINEN LAUSE 
+>>>>>>> Stashed changes

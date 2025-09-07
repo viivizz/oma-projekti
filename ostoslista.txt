@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 kananmunia, maitoa, leipää, mehua, kissanruokaa, porkkanoita, perunoita
 jugurtti, omenoita
+=======
+kananmuniaaaaaaaaaaaaa, maitoa, leipää, mehua, kissanruokaa, porkkanoita, perunoita
+jugurtti
+>>>>>>> 9de17f2e859d991508dce36ad1a6a6a8af7c1902
